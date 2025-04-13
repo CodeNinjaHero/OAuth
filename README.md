@@ -23,10 +23,10 @@ This is a simple Spring Boot project created to learn how to integrate **OAuth2 
 
 ```bash
 git clone https://github.com/CodeNinjaHero/OAuth.git
-cd springOauth2
+cd OAuth
 ```
 ### 2. Configure your application.properties
 follow the doc Autentication-GitHub.pdf in the repo and go to the step 4
 
-#### Oficial documentation from spring
+#### Oficial documentation from Spring Boot
 [documentation](https://spring.io/guides/tutorials/spring-boot-oauth2)
